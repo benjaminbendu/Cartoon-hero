@@ -1,0 +1,27 @@
+body{
+    background-color:#ff5722;
+}
+h1{
+font-size: 30px;
+color: teal;
+}
+
+h2{
+color: turquoise;
+font-size: 60px;
+}
+
+.big{
+font-size: 12px;
+}
+
+.uppercase{
+text-transform:uppercase;
+}
+
+.big.uppercase{
+color: violet;
+}
+span{
+color: ;
+}
