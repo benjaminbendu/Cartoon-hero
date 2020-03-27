@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    background-color: papayawhip
+}
+
+header{
+    background-color: #1B40DE;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+h1, h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50;
+    
+}
+
+header h1{
+    color: seashell;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80;
+    padding-top: 30px;
+    margin-top: 0;
+}
+
+header img{
+    width: 400px;
+    
+}
+
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    background-color: papayawhip
+}
+
+main img{
+    max-width: 100%;
+}
+
+a{
+    color: red;
+}
+a:hover{
+    color: seashell;
+    background-color: #483a94;
+}
+
+footer{
+    background-color: #1B40DE;
+    text-align: center;
+    color: seashell;
+    padding: 50px;
+}
+
+footer p{
+    margin: 0;
+}
+footer a{
+    color: seashell;
+}
+
+footer a:hover{
+    opacity: .5;
+    background-color: transparent;
+
+}
+
+p.caption{
+    color: gray;
+    font-style: italic;
+    margin-top: 0;
+}
